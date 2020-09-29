@@ -1,0 +1,112 @@
+Drink-Name,Drink-Category,Ingredient,Ingredient-Sub,Ingredient-Brand,Type,Amount,Unit
+New York Sour,Sour,Whiskey,"Rye, Bourbon",,Spirit,2,oz
+,,Lemon,,,Juice,1,oz
+,,Simple,,,Syrup,0.5,oz
+,,Red Wine,,,Wine,1,float
+Oaxacan Old Fashioned,Old Fashioned,Tequila,,,Spirit,1.5,oz
+,,Mezcal,,,Spirit,0.5,oz
+,,Agave,,,Syrup,0.25,oz
+,,Bitters,Orange,,Bitters,2,dashes
+Devil’s Margarita,Margarita,Tequila,,,Spirit,2,oz
+,,Triple-Sec,,,Liqeur,0.5,oz
+,,Lime,,,Juice,0.75,oz
+,,Red Wine,,,Wine,1,float
+Negroni,Negroni,Gin,,,Spirit,1,oz
+,,Campari,,,Amaro,1,oz
+,,Vermouth,Sweet,Carpano Antica,Vermouth,1,oz
+Kingston Negroni,Negroni,Rum,,Smith & Cross,Spirit,1,oz
+,,Campari,,,Amaro,1,oz
+,,Vermouth,Sweet,Carpano Antica,Vermouth,1,oz
+Boulevardier,Negroni,Whiskey,,,Spirit,1,oz
+,,Campari,,,Amaro,1,oz
+,,Vermouth,Sweet,Carpano Antica,Vermouth,1,oz
+Pisco Sour,Sour,Pisco,,,Spirit,2,oz
+,,Lemon,,,Juice,1,oz
+,,Simple,,,Syrup,0.5,oz
+,,Egg White,,,Egg White,1,egg
+Brown Bag Daiquiri,Daiquiri,Mezcal,,,Spirit,1.5,oz
+,,Vermouth,Sweet,,Vermouth,0.5,oz
+,,Lemon,,,Juice,0.5,oz
+,,Agave,,,Syrup,0.5,oz
+,,Bitters,Grapefruit,,Bitters,1,dashes
+Sea Spray,,Gin,,,Spirit,1.5,oz
+,,Campari,,,Amaro,1.5,oz
+,,Lime,,,Juice,1.5,oz
+,,Basil,,,Herb,4,Leaves
+,,Tonic,,,Seltzer,4,oz
+Too Soon,,Gin,,,Spirit,1,oz
+,,Cynar,,,Amaro,1,oz
+,,Lemon,,,Juice,0.75,oz
+,,Simple,,,Syrup,0.5,oz
+Conquistador,,Rum,,,Spirit,1,oz
+,,Tequila,,,Spirit,1,oz
+,,Simple,,,Syrup,0.75,oz
+,,Lime,,,Juice,0.5,oz
+,,Lemon,,,Juice,0.5,oz
+,,Egg White,,,Egg White,1,egg
+Aku Aku Navy Grog,Tiki,Rum,,,Spirit,2,oz
+,,Grapefruit,,,Juice,1,oz
+,,Lime,,,Juice,0.75,oz
+,,Maple,,,Syrup,0.5,oz
+Jungle Bird,Tiki,Rum,,,Spirit,2,oz
+,,Campari,,,Amaro,0.75,oz
+,,Simple,,,Syrup,0.5,oz
+,,Lime,,,Juice,0.5,oz
+,,Pineapple,,,Juice,1.5,oz
+Orange Creamsicle Daiquiri,Daiquiri,Rum,,,Spirit,2,oz
+,,Triple-Sec,,,Liqeur,1,oz
+,,Lime,,,Juice,0.75,oz
+,,Simple,,,Syrup,0.75,oz
+,,Egg White,,,Egg White,1,egg
+,,Vanilla Extract,,,Flavoring,1,dashes
+I Want You to Rum My Belly,Tiki,Rum,,,Spirit,2,oz
+,,Amaro,,,Amaro,1,oz
+,,Triple-Sec,,,Liqeur,0.5,oz
+,,Lemon,,,Juice,1,oz
+,,Orange,,,Juice,0.5,oz
+Pegu Club Cocktail,Daiquiri,Gin,,,Spirit,1.5,oz
+,,Triple-Sec,Dry Curacao,,Liqeur,0.5,oz
+,,Lime,,,Juice,0.75,oz
+,,Bitters,Orange,,Bitters,2,Dashes
+High Five,,Gin,,,Spirit,1.5,oz
+,,Aperol,,,Amaro,0.5,oz
+,,Grapefruit,,,Juice,1,oz
+,,Lime,,,Juice,0.5,oz
+,,Simple,,,Syrup,0.5,oz
+Man O’ War,,Whiskey,,,Spirit,2,oz
+,,Triple-Sec,,,Liqeur,1,oz
+,,Vermouth,Sweet,,Vermouth,0.5,oz
+,,Lemon,,,Juice,0.5,oz
+Grape Margarita,Margarita,Tequila,,,,2,oz
+,,Concord grape Juice,,,Misc,1,oz
+,,Lemon,,,Juice,0.75,oz
+,,Grape Jam,,,Misc,1,Bar spoon
+Purple Fizz,,Tequila,,,Liquor,2,oz
+,,Grapefruit,Pink,,Juice,1,oz
+,,Concord grape Juice,,,Misc,2,oz
+,,Demerara,,,Syrup,0.25,oz
+,,Salt,,,Misc,1,Pinch
+,,Egg White,,,Egg White,1,Egg
+Chin Up,,Gin,,,Spirit,2,oz
+,,Cynar,,,Amaro,0.5,oz
+,,Vermouth,Dry,,Vermouth,0.5,oz
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
